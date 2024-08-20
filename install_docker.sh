@@ -18,7 +18,7 @@ sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubun
 sudo apt-get update
 
 # Install Docker Engine
-sudo apt install docker-ce
+sudo apt install -y docker-ce
 
 # Output Docker version to verify installation
 docker --version
