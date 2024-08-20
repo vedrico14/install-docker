@@ -1,2 +1,2 @@
 # install-docker
-Script Installation Docker
+Script Installation Docker on Ubuntu 20.04
